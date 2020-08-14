@@ -15,9 +15,9 @@ I'm a LatinX Software Developer from Aguadilla, Puerto Rico. I picked up program
 
 - Win a shirt from the 2020 Hacktoberfest. <a href="https://hacktoberfest.digitalocean.com/"><img width="36" alt="Digital-Ocean-Hacktoberfest-logo" src="https://pbs.twimg.com/profile_images/1285314653913059336/aKqLm3rw_400x400.png"><a>
   
-- Software internship in the finance area. <img height="36" alt="Coin gif" src="Coin.gif">
+- Software internship in the finance area. 💰
 
-- Establish two of my three Startups. <img width="48" alt="Rocket gif" src="Cooler-Rocket.gif">
+- Establish two of my three Startups. 🚀
 
 <hr>
 
