@@ -8,8 +8,11 @@ I'm a LatinX Software Developer from Aguadilla, Puerto Rico. I picked up program
 
 ### My Goals for this 2020
 -  Master the <a href="https://flutter.dev/"><img width="64" alt="Google-flutter-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/64px-Google-flutter-logo.png"></a> Framework 
+
 - Win a shirt from the 2020 <a href="https://hacktoberfest.digitalocean.com/"><img width="36" alt="Digital-Ocean-Hacktoberfest-logo" src="https://pbs.twimg.com/profile_images/1285314653913059336/aKqLm3rw_400x400.png"><a>
-- Software internship in the finance area <img <img width="64" alt="Coin gif" src="../assets/Coin.gif">
+  
+- Software internship in the finance area <img width="64" alt="Coin gif" src="Coin.gif">
+
 - 
 
 <!--
