@@ -1,5 +1,7 @@
-### Javier Nazario Feliciano
-I'm a LatinX Software Developer from Puerto Rico, Aguadilla. I picked up programmming as a hobby when I was 14 and have'nt stopped since. Currently studying in the Polytechinc University of Puerto Rico with a major in Computer Science and a minor in Cybersecurity. Used to study in University of Puerto Rico -  Mayaguez as a Software Engineering major. 
+### Javier Nazario - @Javier1019
+I'm a LatinX Software Developer from Aguadilla, Puerto Rico. I picked up programmming as a hobby when I was 14 and have'nt stopped since. Currently studying in the Polytechinc University of Puerto Rico with a major in Computer Science and a minor in Cybersecurity. Used to study in University of Puerto Rico -  Mayaguez as a Software Engineering major. 
+
+### Current Projects
 
 <!--
 **Javier1019/Javier1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
