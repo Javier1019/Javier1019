@@ -13,7 +13,7 @@ I'm a LatinX Software Developer from Aguadilla, Puerto Rico. I picked up program
   
 - Software internship in the finance area. <img height="36" alt="Coin gif" src="Coin.gif">
 
-- Establish two of my three Startups. <img height="36" alt="Rocket gif" src="Rocket.gif">
+- Establish two of my three Startups. <img width="48" alt="Rocket gif" src="Rocket.gif">
 
 <!--
 **Javier1019/Javier1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
