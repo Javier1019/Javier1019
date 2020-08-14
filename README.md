@@ -1,5 +1,5 @@
 ### Javier Nazario - @Javier1019
-I'm a LatinX Software Developer from Aguadilla, Puerto Rico. I picked up programmming as a hobby when I was 14 and haven't stopped since. Currently studying in the Polytechinc University of Puerto Rico with a major in Computer Science and a minor in Cybersecurity. Used to study in University of Puerto Rico -  Mayaguez as a Software Engineering major. Currently focusing on building a few Startups to have an excuse to take random projects and learn more!
+I'm a LatinX Software Engineer from Aguadilla, Puerto Rico. I picked up programmming as a hobby when I was 14 and haven't stopped since. Currently studying in the Polytechinc University of Puerto Rico with a major in Computer Science and a minor in Cybersecurity. Used to study in University of Puerto Rico -  Mayaguez as a Software Engineering major. Currently focusing on building a few Startups to have an excuse to take random projects and learn more!
 
 <hr>
 
@@ -17,7 +17,7 @@ I'm a LatinX Software Developer from Aguadilla, Puerto Rico. I picked up program
   
 - Software internship in the finance area. 💰
 
-- Establish two of my three Startups. 🚀
+- Establish 2 of my 3 Startups. 🚀
 
 <hr>
 
@@ -27,6 +27,7 @@ I'm a LatinX Software Developer from Aguadilla, Puerto Rico. I picked up program
 - I'm always learning something new.
 - I was extremly unorganized until I got to College, now i can't live without my agenda.
 - I have a team mindset, always working to help others even if it's a little bit.
+- Coffee Addict.
 
 <!--
 **Javier1019/Javier1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
