@@ -15,7 +15,7 @@ I'm a LatinX Software Engineer from Aguadilla, Puerto Rico. I picked up programm
 
 - Win a shirt from the 2020 Hacktoberfest. <a href="https://hacktoberfest.digitalocean.com/"><img width="24" alt="Digital-Ocean-Hacktoberfest-logo" src="https://pbs.twimg.com/profile_images/1285314653913059336/aKqLm3rw_400x400.png"><a>
   
-- Software internship offer for next summer. 👨🏻‍💻
+- Software internship or COOP offer for 2020 or 2021. 👨🏻‍💻
 
 - Establish 2 of my 3 Startups. 🚀
 
