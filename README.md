@@ -10,14 +10,14 @@ I'm a LatinX Software Engineer from Aguadilla, Puerto Rico. I picked up programm
 
 <hr>
 
-### My Goals for this 2020
+### My Goals for this 2021
 - [ ]  Master the <a href="https://flutter.dev/"><img width="64" alt="Google-flutter-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/64px-Google-flutter-logo.png"></a> Framework.
   
-- [x] Software internship or COOP offer for 2020 or 2021. 👨🏻‍💻
+- [x] Software internship or COOP offer for 2021. 👨🏻‍💻
 
 - [ ] Establish 2 of my 3 Startups. 🚀
 
-- [ ] Finish my current projects.
+- [ ] Finish 10 projects.
 
 - [ ] Earn the DOD Scholarship.
 
