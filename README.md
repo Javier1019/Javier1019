@@ -19,6 +19,8 @@ I'm a LatinX Software Engineer from Aguadilla, Puerto Rico. I picked up programm
 
 - [ ] Finish my current projects.
 
+- [ ] Earn the DOD Scholarship.
+
 <hr>
 
 ### Fun Facts
