@@ -11,13 +11,13 @@ I'm a LatinX Software Engineer from Aguadilla, Puerto Rico. I picked up programm
 <hr>
 
 ### My Goals for this 2020
--  Master the <a href="https://flutter.dev/"><img width="64" alt="Google-flutter-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/64px-Google-flutter-logo.png"></a> Framework.
-
-- Win a shirt from the 2020 Hacktoberfest. <a href="https://hacktoberfest.digitalocean.com//assets/h-light-833607d3b00215da03d184b4123e92b82478d565ab73161880dfe02f04bbeddc.svg"><img width="24" alt="Digital-Ocean-Hacktoberfest-logo" src="https://pbs.twimg.com/profile_images/1285314653913059336/aKqLm3rw_400x400.png"><a>
+- [ ]  Master the <a href="https://flutter.dev/"><img width="64" alt="Google-flutter-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/64px-Google-flutter-logo.png"></a> Framework.
   
-- Software internship or COOP offer for 2020 or 2021. 👨🏻‍💻
+- [x] Software internship or COOP offer for 2020 or 2021. 👨🏻‍💻
 
-- Establish 2 of my 3 Startups. 🚀
+- [ ] Establish 2 of my 3 Startups. 🚀
+
+- [ ] Finish my current projects.
 
 <hr>
 
