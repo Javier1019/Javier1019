@@ -4,9 +4,8 @@ I'm a LatinX Software Engineer from Aguadilla, Puerto Rico. I picked up programm
 <hr>
 
 ### Current Projects
-- SAT: On The Go
-- URBank
-- Fractal Sakura Tree
+- Conversational AI
+- Workout Tracking App
 
 <hr>
 
