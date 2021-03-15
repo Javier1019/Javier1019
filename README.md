@@ -17,9 +17,7 @@ I'm a LatinX Software Engineer from Aguadilla, Puerto Rico. I picked up programm
 
 - [ ] Establish 2 of my 3 Startups. 🚀
 
-- [ ] Finish 10 projects.
-
-- [ ] Earn the DOD Scholarship.
+- [x] Finish 10 projects.
 
 <hr>
 
