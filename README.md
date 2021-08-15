@@ -1,6 +1,8 @@
 ### Javier Nazario - @Javier1019
 I'm a Latin Software Engineer from Aguadilla, Puerto Rico. I picked up programmming as a hobby when I was 14 and haven't stopped since. Used to study in University of Puerto Rico, Mayaguez as a Software Engineering major. Currently studying in the Polytechinc University of Puerto Rico with a major in Computer Science and a minor in Cybersecurity. Currently focusing on Machine Learning and Natural Language Processing for a small side project I'm doing to automate a lot of then work I do on a daily basis. Cybersecurity Enthusiast at the core, costumer privacy and safety is and will forever be a #1 consern.
 
+### Graduation Date: November 2022
+
 <hr>
 
 ### Current Projects
