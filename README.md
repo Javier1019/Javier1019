@@ -5,7 +5,7 @@ I'm a Latin Software Engineer from Aguadilla, Puerto Rico. I picked up programmm
 
 ### Current Projects
 - Conversational AI
-- Workout Tracking App
+- Workout Tracking App (Using Deep Learning to fix posture and reduce injury).
 
 <hr>
 
