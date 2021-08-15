@@ -1,5 +1,5 @@
 ### Javier Nazario - @Javier1019
-I'm a Latin Software Engineer from Aguadilla, Puerto Rico. I picked up programmming as a hobby when I was 14 and haven't stopped since. Used to study in University of Puerto Rico, Mayaguez as a Software Engineering major. Currently studying in the Polytechinc University of Puerto Rico with a major in Computer Science and a minor in Cybersecurity. Currently focusing on building a few Startups for the fun of taking on different types of projects and being able to learn more!
+I'm a Latin Software Engineer from Aguadilla, Puerto Rico. I picked up programmming as a hobby when I was 14 and haven't stopped since. Used to study in University of Puerto Rico, Mayaguez as a Software Engineering major. Currently studying in the Polytechinc University of Puerto Rico with a major in Computer Science and a minor in Cybersecurity. Currently focusing on Machine Learning and Natural Language Processing for a small side project I'm doing to automate a lot of then work I do on a daily basis. Cybersecurity Enthusiast at the core, costumer privacy and safety is and will forever be a #1 consern.
 
 <hr>
 
@@ -12,11 +12,13 @@ I'm a Latin Software Engineer from Aguadilla, Puerto Rico. I picked up programmm
 ### My Goals for this 2021
 - [ ]  Master the <a href="https://flutter.dev/"><img width="64" alt="Google-flutter-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/64px-Google-flutter-logo.png"></a> Framework.
   
-- [x] Software internship or COOP offer for 2021. 👨🏻‍💻
+- [ ] Internship or COOP offer for 2021/2022. 👨🏻‍💻
 
 - [ ] Establish 2 of my 3 Startups. 🚀
 
-- [x] Finish 10 projects.
+- [ ] Finish 10 projects.
+
+- [ ] Acquiring an internship or research experience in AI.
 
 <hr>
 
