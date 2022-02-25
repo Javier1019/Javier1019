@@ -14,11 +14,11 @@ I'm a Latin Software Engineer from Aguadilla, Puerto Rico. I picked up programmm
 ### My Goals for this 2021
 - [X]  Learn the <a href="https://flutter.dev/"><img width="64" alt="Google-flutter-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/64px-Google-flutter-logo.png"></a> Framework.
   
-- [ ] Internship or COOP offer for 2021/2022. 👨🏻‍💻
+- [X] Internship or COOP offer for 2021/2022. 👨🏻‍💻
 
 - [ ] Establish 2 of my 3 Startups. 🚀
 
-- [ ] Finish 10 projects.
+- [ ] Finish 5 projects.
 
 - [X] Acquiring an internship or research experience in AI.
 
