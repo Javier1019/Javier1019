@@ -13,13 +13,13 @@ I'm a Latin Software Engineer from Aguadilla, Puerto Rico. I picked up programmm
 
 ### My Goals for this 2022
   
-- [ ] Get a Fulltime Offer as a Software Engineer for 2022. 👨🏻‍💻
+- [X] Get a Fulltime Offer as a Software Engineer for 2022. 👨🏻‍💻
 
 - [ ] Establish 2 of my 3 Startups. 🚀
 
 - [ ] Finish 5 projects.
 
-- [ ] Participate in Hacktoberfest 2022.
+- [ ] Participate in Hacktoberfest 2023.
 
 <hr>
 
