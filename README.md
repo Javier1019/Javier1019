@@ -6,20 +6,13 @@ I'm a Latin Software Engineer from Aguadilla, Puerto Rico. I picked up programmm
 <hr>
 
 ### Current Projects
-- Conversational AI
 - Workout Tracking App (Using Deep Learning to fix posture and reduce injury).
 
 <hr>
 
-### My Goals for this 2022
-  
-- [X] Get a Fulltime Offer as a Software Engineer for 2022. 👨🏻‍💻
+### My Goals for this 2023
 
-- [ ] Establish 2 of my 3 Startups. 🚀
-
-- [ ] Finish 5 projects.
-
-- [ ] Participate in Hacktoberfest 2023.
+- [ ] Participate in Hacktoberfest 2024.
 
 <hr>
 
