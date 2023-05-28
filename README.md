@@ -15,6 +15,8 @@ Please feel free to reach out if you think my background and skills would be a g
 
 ### Current Projects
 - Workout Tracking App (Using Deep Learning to fix posture and reduce injury).
+- IOT Control Dashboard
+- Overtake
 
 <hr>
 
