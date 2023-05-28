@@ -27,12 +27,10 @@ Please feel free to reach out if you think my background and skills would be a g
 <hr>
 
 ### Fun Facts
-- I believe that honesty is the most important value.
-- My reason for getting up every day is to make the world a little bit better through my work.
+- I'm originally from Aguadilla, Puerto Rico
+- Bookworm to the grave.
 - I'm always learning something new.
-- I was extremly unorganized until I got to college, now I can't live without my agenda.
-- I have a team mindset, to always be working to help others even if it's a little bit.
-- Coffee Addict.
+- Caffeine Addict.
 
 <!--
 **Javier1019/Javier1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
