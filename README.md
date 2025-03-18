@@ -1,15 +1,18 @@
-### About
-Passionate about technology and driven by the pursuit of knowledge, I am a dedicated software engineer with experience across a range of domains including cybersecurity, artificial intelligence, and data science. I began my journey in programming at the age of fourteen, and since then, my fascination with computer technologies has only grown, leading me to complete a Bachelor of Science in Computer Science from the Polytechnic University of Puerto Rico.
+About Me
+Passionate about technology and driven by the pursuit of knowledge, I am a dedicated software engineer, CTO, and AI innovator with expertise in cybersecurity, artificial intelligence, and data science. My programming journey began at 14, fueling a lifelong fascination with computer technologies. I hold a Bachelor of Science in Computer Science from the Polytechnic University of Puerto Rico and have built a career focused on solving complex problems through software innovation.
 
-Throughout my career, I have accumulated practical experience with various programming languages such as Java, Python, Dart, JavaScript, HTML, CSS, SQL, C#, and C++. Moreover, I have worked with numerous software development frameworks including Flutter, .Net, Angular, Next.js, React.js, React Native, and Node.js. I'm proficient with cloud technologies such as AWS, Google Cloud, Azure, Digital Ocean, Heroku, Firebase, and Oracle.
+I currently serve as the CTO of Intelligent Core, where we develop predictive and agentic AI models for businesses, leveraging a proprietary AI engine that I architected. Our solutions help companies automate processes, optimize decision-making, and unlock new levels of efficiency through AI-driven insights.
 
-My experience spans multiple sectors and roles. From working on improving user interfaces and experiences at L3Harris Technologies to automating processes at Accenture, I've consistently been involved in problem-solving and innovation. At Boston Scientific, I had the opportunity to enhance operational efficiency, while at Freddie Mac, I contributed to enhancing the organization's overall security posture.
+I have hands-on experience with various programming languages and frameworks, including Flutter, .NET, Angular, Next.js, React.js, React Native, and Node.js. Additionally, I’m proficient in AWS, Google Cloud, and Azure.
 
-In March 2020, I founded Javand Software Solutions, where I provided custom digital solutions to businesses, resulting in an average revenue increase of 35% for 85% of my clients. This experience has given me a holistic understanding of client needs and how to tailor solutions effectively.
+My career has spanned multiple industries, enhancing user experiences at L3Harris Technologies, automating processes at Accenture, improving operational efficiency at Boston Scientific, and strengthening security at Freddie Mac.
 
-My aim is to use my diverse set of skills to innovate, problem-solve, and create value in the technology industry. I'm open to opportunities where I can use my technical skills and knowledge to impact a company's success positively.
+In 2020, I founded Javand Software Solutions, delivering tailored digital solutions that helped 85% of my clients increase revenue by an average of 35%. This experience honed my ability to bridge technology and business needs to create impactful solutions.
 
-Please feel free to reach out if you think my background and skills would be a good fit for your organization or if you'd like to connect professionally.
+🚀 Looking to integrate AI into your business?
+At Intelligent Core, we help businesses build scalable AI solutions that drive efficiency, automation, and growth. Let’s talk about how AI can transform your operations. Schedule a free discovery call today, let’s get you running with AI-powered solutions that give you a competitive edge.
+
+📞 Contact me to get started!
 
 <hr>
 
